@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-01T22:14:12 GMT+04:00" name="Suite1" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="124">
+    <groups>
+    </groups>
+    <test started-at="2020-06-01T22:14:12 GMT+04:00" name="testClass" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="124">
+      <class name="lab5.ClassTest">
+        <test-method signature="TaskAbs1(int)[pri:0, instance:lab5.ClassTest@10db82ae]" started-at="2020-06-01T22:14:12 GMT+04:00" name="TaskAbs1" data-provider="TaskAbs1" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskAbs1 -->
+        <test-method signature="TaskAbs2(int)[pri:0, instance:lab5.ClassTest@10db82ae]" started-at="2020-06-01T22:14:12 GMT+04:00" name="TaskAbs2" data-provider="TaskAbs2" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-2147483648]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskAbs2 -->
+        <test-method signature="TaskAbs3(int)[pri:0, instance:lab5.ClassTest@10db82ae]" started-at="2020-06-01T22:14:12 GMT+04:00" name="TaskAbs3" data-provider="TaskAbs3" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskAbs3 -->
+        <test-method signature="TaskAddExact1(int, int)[pri:0, instance:lab5.ClassTest@10db82ae]" started-at="2020-06-01T22:14:12 GMT+04:00" name="TaskAddExact1" data-provider="TaskAddExact1" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2107833903]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-1920444420]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskAddExact1 -->
+        <test-method signature="TaskAddExact2(int)[pri:0, instance:lab5.ClassTest@10db82ae]" started-at="2020-06-01T22:14:12 GMT+04:00" name="TaskAddExact2" data-provider="TaskAddExact2" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1990289908]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskAddExact2 -->
+        <test-method signature="TaskFloorDiv1(int, int, int)[pri:0, instance:lab5.ClassTest@10db82ae]" started-at="2020-06-01T22:14:12 GMT+04:00" name="TaskFloorDiv1" data-provider="TaskFloorDiv1" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[627581134]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1849430892]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskFloorDiv1 -->
+        <test-method signature="TaskFloorDiv2(int)[pri:0, instance:lab5.ClassTest@10db82ae]" started-at="2020-06-01T22:14:12 GMT+04:00" name="TaskFloorDiv2" data-provider="TaskFloorDiv2" finished-at="2020-06-01T22:14:12 GMT+04:00" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-318790857]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskFloorDiv2 -->
+      </class> <!-- lab5.ClassTest -->
+    </test> <!-- testClass -->
+  </suite> <!-- Suite1 -->
+</testng-results>
